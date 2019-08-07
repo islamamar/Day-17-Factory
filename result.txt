@@ -1,0 +1,6 @@
+Type: Note
+------------------
+heading:Reminder
+from:Smith
+to:John
+body:Don't forget me this weekend
